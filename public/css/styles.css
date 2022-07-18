@@ -35,5 +35,7 @@ body {
 }
 
 .overflow{
+  font-family:cursive;
+  color: rgb(75, 55, 94);
   white-space: nowrap;
 }
